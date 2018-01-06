@@ -1,0 +1,3 @@
+#pricebar{border:solid thin gray; padding:0px; margin:0px;display: flex;}
+.element{position: relative;overflow:hidden;height: 15px;width: 200px;margin:0px; text-align:center;}
+.element .resizer{width: 10px;height: 13px;background: white;position: absolute;right: 0px;bottom: 0px;cursor: col-resize; border:solid black thin; border-radius: 10px;}
