@@ -13,7 +13,6 @@ On your HTML page paste the following:
       <div class="element"><span></span><div class="resizer"></div></div>
     </div>
   <div id="display-pct"></div>
-
 -->
 
 
