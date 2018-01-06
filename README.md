@@ -7,14 +7,14 @@ With pixel or percentage values.
 How to:
 
 On your HTML page paste the following:
-
-<code>
-    <div id="pricebar">
+<!--
+  <div id="pricebar">
       <div class="element"><span></span><div class="resizer"></div></div>
       <div class="element"><span></span><div class="resizer"></div></div>
     </div>
   <div id="display-pct"></div>
-</code>
+
+-->
 
 
 
